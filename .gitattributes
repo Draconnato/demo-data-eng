@@ -1,5 +1,5 @@
 *.ipynb linguist-detectable=true
-*.ipynb linguist-language=python
+*.ipynb linguist-language=Jupyter Notebook
 *.tsv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.parquet filter=lfs diff=lfs merge=lfs -text
